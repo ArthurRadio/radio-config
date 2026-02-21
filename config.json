@@ -1,6 +1,6 @@
 {
   "radioName": "Ma Web Radio",
-  "background": "https://picsum.photos/900/1600",
+  "background": "https://raw.githubusercontent.com/ArthurRadio/radio-config/main/fond.jpg",,
   "liveTitle": "En direct",
   "liveSubtitle": "Simple, artisanal, chaleureux"
 }
